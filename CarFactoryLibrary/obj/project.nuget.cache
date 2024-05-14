@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xhLL2xSQJRjVmexa8XH2B7hrMZ4EUpDzuaUFTju2+2nuCSHLB8Tmzwdx2z0HLdp+/37WDdUxDr0zhB5Er+HtNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP-ITI\\source\\repos\\Testing_Lap1\\CarFactoryLibrary\\CarFactoryLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP-ITI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\HP-ITI\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\HP-ITI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
